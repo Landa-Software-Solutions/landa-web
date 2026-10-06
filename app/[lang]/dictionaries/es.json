@@ -1,0 +1,222 @@
+{
+  "seo": {
+    "title": "Landa Software Solutions | Desarrollo web y software a medida",
+    "description": "Desarrollamos sitios web, aplicaciones y software a medida para pymes, startups y negocios. Diseño, desarrollo, infraestructura y mantenimiento en un solo equipo."
+  },
+  "nav": {
+    "services": "Servicios",
+    "process": "Cómo trabajamos",
+    "team": "Equipo",
+    "faq": "Preguntas frecuentes",
+    "contact": "Contacto",
+    "menu": "Abrir menú",
+    "language": "Idioma"
+  },
+  "hero": {
+    "titleStart": "Software a medida,",
+    "titleHighlight": "construido y mantenido por las mismas personas.",
+    "subtitle": "Desarrollamos webs, aplicaciones y sistemas para pymes, startups y negocios que quieren crecer con tecnología, sin complicaciones.",
+    "primaryCta": "Cuéntanos tu proyecto",
+    "secondaryCta": "Ver servicios"
+  },
+  "why": {
+    "titleStart": "Tecnología que funciona,",
+    "titleHighlight": "con personas que responden",
+    "items": [
+      {
+        "title": "Trato directo",
+        "text": "Hablas con quien escribe el código y con quien gestiona tu servidor. Sin intermediarios, sin cadenas de correos."
+      },
+      {
+        "title": "De la idea a producción",
+        "text": "Diseño, desarrollo, despliegue y soporte en un solo equipo. No tienes que coordinar a varios proveedores."
+      },
+      {
+        "title": "Alcance y precio claros",
+        "text": "Antes de empezar recibes una propuesta por escrito con lo que incluye, cuánto cuesta y cuándo estará listo."
+      }
+    ]
+  },
+  "services": {
+    "title": "Qué hacemos",
+    "intro": "Construimos lo que tu negocio necesita y nos encargamos de que siga funcionando.",
+    "items": [
+      {
+        "title": "Desarrollo web",
+        "text": "Sitios corporativos, landing pages y tiendas online rápidos, adaptados a móviles y optimizados para aparecer en Google. Fáciles de actualizar para que no dependas de nosotros para cada cambio."
+      },
+      {
+        "title": "Aplicaciones web y móviles",
+        "text": "Paneles de gestión, portales para clientes, sistemas de reservas y MVPs para startups. Productos pensados para crecer con tu negocio."
+      },
+      {
+        "title": "Software a medida e integraciones",
+        "text": "Sistemas internos, APIs y automatización de procesos repetitivos. Conectamos tus herramientas (pagos, CRM, facturación, hojas de cálculo) e incorporamos inteligencia artificial donde aporta valor real."
+      },
+      {
+        "title": "Infraestructura, hosting y mantenimiento",
+        "text": "Diseñamos, desplegamos y cuidamos la infraestructura donde corre tu proyecto: servidores Linux y cloud (AWS), contenedores con Docker y Kubernetes, CI/CD para publicar cambios de forma segura, DNS y Cloudflare, certificados SSL/TLS, backups, monitoreo y soporte. Entornos seguros, escalables y de alta disponibilidad, para que tu negocio no se detenga."
+      }
+    ],
+    "cta": "Hablemos de tu proyecto"
+  },
+  "audience": {
+    "title": "Hecho para negocios que quieren avanzar",
+    "items": [
+      {
+        "title": "Pymes",
+        "text": "Digitaliza procesos, deja atrás las planillas interminables y ahorra horas de trabajo manual cada semana."
+      },
+      {
+        "title": "Startups",
+        "text": "Lanza tu MVP rápido, valida tu idea con usuarios reales y escala sobre una base técnica sólida."
+      },
+      {
+        "title": "Profesionales y negocios locales",
+        "text": "Una presencia online profesional que transmite confianza y te trae nuevos clientes."
+      }
+    ]
+  },
+  "process": {
+    "title": "Un proceso simple y transparente",
+    "steps": [
+      {
+        "title": "Conversación inicial",
+        "text": "Una llamada sin costo para entender tu negocio, tu objetivo y lo que necesitas."
+      },
+      {
+        "title": "Propuesta",
+        "text": "Te enviamos por escrito el alcance, los plazos y el presupuesto. Sin letra chica."
+      },
+      {
+        "title": "Desarrollo por etapas",
+        "text": "Trabajamos en entregas cortas con demos frecuentes, para que veas el avance y puedas opinar desde el principio."
+      },
+      {
+        "title": "Lanzamiento y acompañamiento",
+        "text": "Ponemos tu proyecto en producción y seguimos a tu lado con mantenimiento y soporte."
+      }
+    ]
+  },
+  "team": {
+    "title": "Quiénes somos",
+    "intro": "Somos un equipo pequeño a propósito. Cada proyecto lo llevamos nosotros directamente: quien te escucha en la primera llamada es quien lo construye.",
+    "expertiseLabel": "Áreas de especialidad:",
+    "members": [
+      {
+        "name": "Diego Amatte",
+        "role": "Desarrollo de software Full Stack",
+        "photo": "/team/diego.jpg",
+        "bio": [
+          "Más de 4 años construyendo aplicaciones web y sistemas distribuidos de punta a punta, del frontend al backend. Se encarga de convertir tu idea en un producto que funciona: arquitectura, código, integraciones y experiencia de usuario.",
+          "Ha desarrollado y mantenido productos para empresas de email marketing, fintech (créditos prendarios) y telecomunicaciones, trabajando con arquitecturas de microservicios, integraciones con múltiples plataformas de terceros y servicios cloud. También implementó un agente de inteligencia artificial en Google Cloud Vertex AI para automatizar procesos internos."
+        ],
+        "expertise": [
+          "Desarrollo full stack",
+          ".NET y C#",
+          "React",
+          "Angular",
+          "JavaScript y TypeScript",
+          "APIs REST",
+          "Microservicios",
+          "Integraciones con terceros",
+          "IA aplicada (Google Cloud Vertex AI)",
+          "SQL Server",
+          "MongoDB",
+          "Azure y Google Cloud",
+          "Docker",
+          "CI/CD",
+          "Git",
+          "Metodologías ágiles (Scrum)"
+        ]
+      },
+      {
+        "name": "Luis Nogales Moya",
+        "role": "Infraestructura & DevOps",
+        "photo": "/team/luis.jpg",
+        "bio": [
+          "Especialista en infraestructura, DevOps, redes y plataformas cloud. Se encarga de diseñar, desplegar y mantener entornos seguros, escalables y de alta disponibilidad para aplicaciones y servicios web.",
+          "Trabaja con servidores Linux, Docker, Kubernetes y OpenShift, automatización de infraestructura, CI/CD, servicios cloud, gestión de DNS con Cloudflare, VPN y redes privadas, proxies y balanceo, certificados SSL/TLS, seguridad de servidores, bases de datos, backups, monitoreo y observabilidad."
+        ],
+        "expertise": [
+          "Cloud e infraestructura",
+          "Docker y Kubernetes",
+          "DevOps y CI/CD",
+          "Automatización",
+          "Hosting y servidores Linux",
+          "AWS",
+          "DNS y Cloudflare",
+          "VPN y redes privadas",
+          "NGINX y reverse proxy",
+          "Seguridad y certificados SSL/TLS",
+          "Alta disponibilidad",
+          "Monitoreo y observabilidad",
+          "Bases de datos y almacenamiento"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      {
+        "q": "¿Cuánto cuesta un proyecto?",
+        "a": "Depende del alcance. Después de la primera conversación te enviamos una propuesta con precio cerrado o por etapas, para que sepas exactamente qué pagas."
+      },
+      {
+        "q": "¿Cuánto tiempo tarda?",
+        "a": "Depende del alcance. Como referencia, un sitio web suele estar listo en 2 a 4 semanas y una aplicación o sistema a medida, entre 1 y 3 meses. En la propuesta te damos fechas concretas para cada etapa."
+      },
+      {
+        "q": "¿Trabajan con clientes fuera de Estados Unidos?",
+        "a": "Sí. Trabajamos 100% en remoto, en español e inglés, con clientes de cualquier país."
+      },
+      {
+        "q": "¿Qué pasa después del lanzamiento?",
+        "a": "Ofrecemos planes de infraestructura, hosting y mantenimiento que incluyen actualizaciones, copias de seguridad, monitoreo y soporte. También puedes contratarnos por horas para nuevas funcionalidades."
+      },
+      {
+        "q": "¿El código y el proyecto son míos?",
+        "a": "Sí. Al finalizar, el código, los accesos y la propiedad del proyecto son tuyos."
+      },
+      {
+        "q": "¿Puedo empezar con algo pequeño?",
+        "a": "Claro. Muchas veces lo mejor es arrancar con una primera versión simple y crecer a partir de ahí."
+      }
+    ]
+  },
+  "contact": {
+    "title": "¿Tienes un proyecto en mente?",
+    "text": "Cuéntanos qué necesitas y te respondemos en menos de 48 horas hábiles. La primera conversación no tiene costo.",
+    "emailLabel": "Email",
+    "location": "Estados Unidos · Trabajo remoto",
+    "linkedin": "LinkedIn",
+    "form": {
+      "name": "Nombre",
+      "email": "Email",
+      "company": "Empresa",
+      "projectType": "Tipo de proyecto",
+      "projectTypePlaceholder": "Selecciona...",
+      "projectTypes": [
+        "Sitio web",
+        "Aplicación",
+        "Software a medida",
+        "Infraestructura, hosting y mantenimiento",
+        "Otro"
+      ],
+      "budget": "Presupuesto aproximado",
+      "budgetPlaceholder": "Ej.: USD 3.000, aún no lo sé (opcional)",
+      "message": "Cuéntanos sobre tu proyecto",
+      "messagePlaceholder": "Describe brevemente tu idea, objetivos y cualquier detalle relevante...",
+      "submit": "Enviar mensaje",
+      "sending": "Enviando...",
+      "success": "¡Gracias! Recibimos tu mensaje y te responderemos pronto.",
+      "error": "No pudimos enviar tu mensaje. Inténtalo de nuevo o escríbenos a {email}."
+    }
+  },
+  "footer": {
+    "tagline": "Desarrollo web y software a medida.",
+    "location": "Estados Unidos · Trabajo remoto",
+    "rights": "© 2026 Landa Software Solutions LLC. Todos los derechos reservados."
+  }
+}

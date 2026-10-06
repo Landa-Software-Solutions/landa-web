@@ -1,0 +1,222 @@
+{
+  "seo": {
+    "title": "Landa Software Solutions | Web Development & Custom Software",
+    "description": "We build websites, apps and custom software for small businesses, startups and local companies. Design, development, infrastructure and maintenance from one team."
+  },
+  "nav": {
+    "services": "Services",
+    "process": "How we work",
+    "team": "Team",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "menu": "Open menu",
+    "language": "Language"
+  },
+  "hero": {
+    "titleStart": "Custom software,",
+    "titleHighlight": "built and maintained by the same people.",
+    "subtitle": "We build websites, apps and systems for small businesses, startups and local companies ready to grow with technology — without the headaches.",
+    "primaryCta": "Tell us about your project",
+    "secondaryCta": "See our services"
+  },
+  "why": {
+    "titleStart": "Technology that works,",
+    "titleHighlight": "people who answer",
+    "items": [
+      {
+        "title": "Direct access",
+        "text": "You talk to the person writing your code and the person running your servers. No middlemen, no endless email chains."
+      },
+      {
+        "title": "From idea to production",
+        "text": "Design, development, deployment and support from one team. No juggling multiple vendors."
+      },
+      {
+        "title": "Clear scope and pricing",
+        "text": "Before we start, you get a written proposal covering what's included, what it costs and when it'll be ready."
+      }
+    ]
+  },
+  "services": {
+    "title": "What we do",
+    "intro": "We build what your business needs — and keep it running.",
+    "items": [
+      {
+        "title": "Web development",
+        "text": "Fast, mobile-friendly, SEO-ready company websites, landing pages and online stores. Easy to update, so you don't need us for every small change."
+      },
+      {
+        "title": "Web & mobile apps",
+        "text": "Admin dashboards, customer portals, booking systems and MVPs for startups. Products designed to grow with your business."
+      },
+      {
+        "title": "Custom software & integrations",
+        "text": "Internal tools, APIs and automation for repetitive tasks. We connect the tools you already use (payments, CRM, invoicing, spreadsheets) and add AI where it delivers real value."
+      },
+      {
+        "title": "Infrastructure, hosting & maintenance",
+        "text": "We design, deploy and look after the infrastructure your project runs on: Linux servers and cloud (AWS), containers with Docker and Kubernetes, CI/CD to ship changes safely, DNS and Cloudflare, SSL/TLS certificates, backups, monitoring and support. Secure, scalable, highly available environments that keep your business running."
+      }
+    ],
+    "cta": "Let's talk about your project"
+  },
+  "audience": {
+    "title": "Built for businesses ready to move forward",
+    "items": [
+      {
+        "title": "Small and mid-sized businesses",
+        "text": "Digitize your processes, ditch the endless spreadsheets and save hours of manual work every week."
+      },
+      {
+        "title": "Startups",
+        "text": "Launch your MVP fast, validate your idea with real users and scale on a solid technical foundation."
+      },
+      {
+        "title": "Professionals & local businesses",
+        "text": "A professional online presence that builds trust and brings in new clients."
+      }
+    ]
+  },
+  "process": {
+    "title": "A simple, transparent process",
+    "steps": [
+      {
+        "title": "Discovery call",
+        "text": "A free call to understand your business, your goals and what you need."
+      },
+      {
+        "title": "Proposal",
+        "text": "We send you the scope, timeline and budget in writing. No fine print."
+      },
+      {
+        "title": "Iterative development",
+        "text": "We work in short cycles with frequent demos, so you see progress and can give feedback from day one."
+      },
+      {
+        "title": "Launch & ongoing support",
+        "text": "We take your project live and stay with you through maintenance and support."
+      }
+    ]
+  },
+  "team": {
+    "title": "Who we are",
+    "intro": "We're a small team on purpose. We handle every project ourselves: the people you meet on the first call are the people who build it.",
+    "expertiseLabel": "Areas of expertise:",
+    "members": [
+      {
+        "name": "Diego Amatte",
+        "role": "Full Stack Software Development",
+        "photo": "/team/diego.jpg",
+        "bio": [
+          "4+ years building web applications and distributed systems end to end, from frontend to backend. Turns your idea into a product that works: architecture, code, integrations and user experience.",
+          "Has built and maintained products for email marketing, fintech (auto loans) and telecommunications companies, working with microservice architectures, integrations with multiple third-party platforms and cloud services. Also built an AI agent on Google Cloud Vertex AI to automate internal processes."
+        ],
+        "expertise": [
+          "Full stack development",
+          ".NET & C#",
+          "React",
+          "Angular",
+          "JavaScript & TypeScript",
+          "REST APIs",
+          "Microservices",
+          "Third-party integrations",
+          "Applied AI (Google Cloud Vertex AI)",
+          "SQL Server",
+          "MongoDB",
+          "Azure & Google Cloud",
+          "Docker",
+          "CI/CD",
+          "Git",
+          "Agile (Scrum)"
+        ]
+      },
+      {
+        "name": "Luis Nogales Moya",
+        "role": "Infrastructure & DevOps",
+        "photo": "/team/luis.jpg",
+        "bio": [
+          "Infrastructure, DevOps, networking and cloud platform specialist. Designs, deploys and maintains secure, scalable, highly available environments for web applications and services.",
+          "Works with Linux servers, Docker, Kubernetes and OpenShift, infrastructure automation, CI/CD, cloud services, DNS management with Cloudflare, VPNs and private networks, proxies and load balancing, SSL/TLS certificates, server hardening, databases, backups, monitoring and observability."
+        ],
+        "expertise": [
+          "Cloud & infrastructure",
+          "Docker & Kubernetes",
+          "DevOps & CI/CD",
+          "Automation",
+          "Hosting & Linux servers",
+          "AWS",
+          "DNS & Cloudflare",
+          "VPNs & private networks",
+          "NGINX & reverse proxy",
+          "Security & SSL/TLS certificates",
+          "High availability",
+          "Monitoring & observability",
+          "Databases & storage"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "q": "How much does a project cost?",
+        "a": "It depends on the scope. After our first conversation, we send a proposal with a fixed or phased price, so you know exactly what you're paying for."
+      },
+      {
+        "q": "How long does it take?",
+        "a": "It depends on the scope. As a reference, a website is usually ready in 2–4 weeks and a custom app or system in 1–3 months. Your proposal includes concrete dates for each stage."
+      },
+      {
+        "q": "Do you work with clients outside the US?",
+        "a": "Yes. We work 100% remotely, in English and Spanish, with clients anywhere."
+      },
+      {
+        "q": "What happens after launch?",
+        "a": "We offer infrastructure, hosting and maintenance plans that include updates, backups, monitoring and support. You can also hire us by the hour for new features."
+      },
+      {
+        "q": "Do I own the code?",
+        "a": "Yes. When the project is done, the code, credentials and ownership are yours."
+      },
+      {
+        "q": "Can I start small?",
+        "a": "Absolutely. Often the best approach is a simple first version that grows from there."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Have a project in mind?",
+    "text": "Tell us what you need and we'll get back to you within 48 business hours. The first conversation is free.",
+    "emailLabel": "Email",
+    "location": "United States · Remote",
+    "linkedin": "LinkedIn",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "projectType": "Project type",
+      "projectTypePlaceholder": "Select...",
+      "projectTypes": [
+        "Website",
+        "App",
+        "Custom software",
+        "Infrastructure, hosting & maintenance",
+        "Other"
+      ],
+      "budget": "Estimated budget",
+      "budgetPlaceholder": "e.g. $3,000, not sure yet (optional)",
+      "message": "Tell us about your project",
+      "messagePlaceholder": "Briefly describe your idea, goals and any relevant details...",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "success": "Thanks! We got your message and will be in touch soon.",
+      "error": "We couldn't send your message. Please try again or email us at {email}."
+    }
+  },
+  "footer": {
+    "tagline": "Web development & custom software.",
+    "location": "United States · Remote",
+    "rights": "© 2026 Landa Software Solutions LLC. All rights reserved."
+  }
+}
